@@ -8,6 +8,12 @@ function soma(a,b) {
     return a + b;
 }
 
+imprimir2();
+
+function soma(a,b) {
+    return a * b;
+}
+
 console.log(soma(4,2));
 
 console.log(soma(7,3));
